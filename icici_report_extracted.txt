@@ -1,0 +1,112 @@
+  INVESTMENT IDEA REPORT   
+ICICI Bank Limited | Banking  & Financial Services  
+Investment Horizon: 3 –5 Years   |   Target Return: >15% Annualized   |   Recommendation: BUY  
+ 
+FY25 PAT  PAT Growth  ROE (FY24)  GNPA (Q4 FY25)  CET1 Ratio  
+₹47,227 Cr  ~+15% YoY  18.4%  1.67%  ~17.7%  
+ 
+INVESTMENT THESIS  
+ICICI Bank is positioned as a high -quality growth stock  due to its robust fundamentals. In FY2024 it earned ₹408.88 billion PAT , 
+which rose to ₹472.27 billion in FY2025  (≈+15%)  [1]. Its return on equity (~17 –18%)  [6][7] is industry -leading. The bank has 
+rapidly expanded retail lending and digital services, fuelling  double -digit growth. It trades at ~17× forward earnings and 2.7× book 
+value  [6], which is reasonable given its sustained 18% -plus ROE  [7]. I expect ICICI's annualized return to exceed 15% over 3 –
+5 years , driven by continued loan growth and improving margins . 
+ 
+BANKING SECTOR OUTLOOK  
+• Strong Credit Growth: RBI reports non -food bank credit up ~14.4% YoY in Dec 2025  [4], reflecting rising demand from 
+retail consumers, SMEs, and infrastructure projects.  
+• Healthy Bank Balance Sheets: Indian banks saw double -digit loan and deposit growth in FY2025  [8], with gross NPAs at 
+multi -year lows (~2.1% as of Sept 2025  [5]). ICICI's own GNPA stands at ~1.67% in Mar 2025  [9]. 
+• Digital & Regulatory Tailwinds: Financial inclusion efforts and digital adoption are expanding the customer base. Private 
+banks like ICICI continue gaining market share through superior technology and efficiency.  
+ 
+COMPANY ANALYSIS  
+• Profitability: Core operating profit grew 12.5% in FY2025 (₹653.96 bn)  [10]. NII surged to ₹73,240 cr (FY2024)  [2], with 
+NIM at 4.4–4.5%  [11][12], among the highest in the sector. Loan book grew +13.9% YoY in Q4 FY2025.  
+• Asset Quality: GNPA declined from 2.29% (FY2024) to 1.67% in Q4 FY2025  [9]; PCR at ~84%  [14]. Best -in-class asset 
+quality limits credit costs and adds material safety margin.  
+• Capital & Returns: CET1 of ~17.7% (vs 11.5% regulatory minimum). ROE at 18.4% in FY2024  — a level that justifies 
+current multiples and enables lending growth without dilution. [15] [7] 
+• Digital / Retail Leadership: 30M+ iMobile Pay users; 93% of transactions digital; retail loans >55% of advances. Digital 
+penetration drives higher -yield retail exposure and deep customer stickiness. [16][17] 
+• Corporate Governance: No promoter concentration; dispersed institutional ownership. MD Sandeep Bakhshi's term extended 
+— management continuity is a significant differentiator vs. peers.  
+ 
+GROWTH DRIVERS  
+• Retail Credit Expansion: Rising incomes and urbanisation sustain housing, auto, and personal loan demand. Digital -first 
+platforms (iLens, InstaBIZ) provide scalable origination.  
+• SME & Corporate Lending: Government focus on MSMEs and infrastructure creates a multi -year lending runway. ICICI's 
+balance sheet strength positions it as a preferred lender.  
+• Net Interest Margin Resilience: Stable CASA (~39%) keeps funding costs low. As new loan yields outpace deposit repricing, 
+NIM may expand from current ~4.4%. [11] 
+• Fee Income Diversification: Credit cards, insurance distribution, and wealth management are growing rapidly, reducing 
+dependence on interest income.  
+• Subsidiary Synergies: Dividends and cross -sell from ICICI Prudential, ICICI Lombard, and ICICI Securities bolster group 
+earnings stability and ROE.  
+ 
+ 
+KEY RISKS  
+Risk Factor  Description  
+Economic Slowdown  A sharp growth deceleration could dent loan volumes and elevate NPA provisions, particularly in 
+unsecured retail and SME portfolios.  
+Asset Quality Shocks  RBI audit (FY2026) caused a one -off provision spike. Any large corporate default could pressure 
+GNPA ratios above current lows.  
+Regulatory Changes  Higher capital requirements, revised priority -sector norms, or fee caps could constrain loan 
+growth or compress fee income.  
+Interest Rate Volatility  Rapid rate cuts could compress NIM before the loan book is repriced; rapid hikes could stress 
+unsecured borrowers.  
+Competitive Pressure  Fintech entrants and aggressive private peers compete in cards, personal loans, and SME lending, 
+potentially pressuring yields.  
+ 
+VALUATION — DCF ANALYSIS  
+A simplified Discounted Cash Flow (DCF) model was constructed using audited results. Base year FY2025 PAT: ₹47,227 crore  
+[1] (ICICI Bank Annual Report). Growth projected at 12% p.a. , discounted at 12% cost of equity  with a 4% terminal growth 
+rate. 
+ 
+Year 1  Year 2  Year 3  Year 4  Year 5  
+₹52,894 Cr  ₹59,242 Cr  ₹65,758 Cr  ₹72,334 Cr  ₹78,844 Cr  
+  
+PV of Profits (Yr 1 –5) Discounted Terminal Value  Intrinsic Value / Share  Market Price (Mar 2026)  
+₹2,31,854 Cr  ₹5,06,632 Cr  ~₹1,030  ~₹1,278  
+ 
+Valuation Summary: The stock trades at a ~24% premium to DCF intrinsic value — a premium attributable to franchise quality 
+and ROE superiority. Nonetheless, earnings compounding at 12% CAGR alone delivers ~15% annualized equity returns from 
+current market price  over a 5 -year horizon, even without multiple expansion. A bull case (15% PAT CAGR) implies 20%+ 
+annualized returns.  [3][6][7] 
+ 
+INVESTMENT HORIZON (3 –5 YEARS)  
+I target a 3 –5-year horizon to capture business maturation and macro cycles. Over this period, ICICI should grow loans steadily and 
+improve profits as digital initiatives scale. Subsidiary contributions and any multiple expansion will compound over time. Th is 
+horizon deliber ately avoids near -term market noise and focuses on sustainable earnings compounding.  
+ 
+CONCLUSION  
+ICICI Bank's strong fundamentals — double -digit profit growth, best -in-class ROE, and declining NPAs — combined with India's 
+structurally favourable  banking environment make it a compelling long -term investment. It operates a well -capitalised, digital -first 
+franchise with growing fee income streams and subsidiary optionality. Trading at a reasonable premium to book for its return profile, 
+the stock is  expected to generate >15% annual returns  over the next 3 –5 years. ICICI Bank is recommended as a BUY.  
+ 
+ 
+ 
+ 
+ 
+PAST INVESTMENT RECORD & INSIGHTS  
+Past Investment Record  
+I currently do not have a personal record of past investment decisions or transaction history. However, I actively follow fin ancial 
+markets and analyse  companies using publicly available financial statements, annual reports, and industry data. This investment 
+idea is based on fundamental analysis and valuation techniques applied to ICICI Bank using reliable financial sources.  
+Insights Learned  
+Although I do not have personal investment transaction records, my analysis of companies and financial markets has helped me 
+understand the importance of strong fundamentals, consistent earnings growth, and sound management. Companies with stable 
+profitabi lity, strong balance sheets, and favourable  industry outlooks tend to generate sustainable long -term returns — insights that 
+guided this evaluation.  
+Sectors with Strong Understanding  
+• Banking & Financials  — Credit cycle dynamics, RBI policy transmission, NPA provisioning, and capital adequacy 
+frameworks.  
+• Technology / IT  — Software export trends, digital adoption curves, and fintech disruption in financial services.  
+ 
+USE OF AI DISCLOSURE  
+AI tools were used only to assist in structuring the report and explaining the DCF valuation methodology. All financial figur es and 
+assumptions were sourced from publicly available documents including the ICICI Bank Annual Report and financial databases. 
+Investment conclusions represent independent analytical judgment.  
+PROMPT:  “Assist in structuring an investment report on ICICI Bank and explaining the DCF valuation approach using financial data 
+from public sources. ” 
